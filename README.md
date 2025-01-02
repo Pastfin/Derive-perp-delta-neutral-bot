@@ -51,4 +51,4 @@ Manages positions using EOA wallets, ensuring security and parameter randomizati
 
 ## Documentation
 
-For detailed instructions, visit: [Full Documentation](https://teletype.in/@pastfin/editor/hlTslS6MvaV)
+For detailed instructions, visit: [Full Documentation](https://teletype.in/@pastfin/hlTslS6MvaV)
