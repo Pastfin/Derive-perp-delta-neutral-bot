@@ -1,5 +1,7 @@
 # Derive Perp Delta Neutral Bot
 
+https://www.derive.xyz/invite/55NI6
+
 ## Description
 
 Automated delta-neutral trading bot for the Derive platform.  
