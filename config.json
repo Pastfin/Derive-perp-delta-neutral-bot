@@ -1,0 +1,30 @@
+{
+    "pair_probability": {
+        "ETH": 1,
+        "BTC": 0
+    },
+    "net_order_value_usd": {
+        "min": 800,
+        "max": 1000
+    },
+    "leverage": {
+        "min": 2,
+        "max": 2
+    },
+    "num_of_accounts_per_trade": {
+        "min": 3,
+        "max": 4
+    },
+    "delay_open_close_minutes": {
+        "min": 13,
+        "max": 22
+    },
+    "delay_between_opening_new_position_minutes": {
+        "min": 8,
+        "max": 10
+    },
+    "delay_between_opening_hedge_position_sec": {
+        "min": 0.3,
+        "max": 0.7
+    }
+}
