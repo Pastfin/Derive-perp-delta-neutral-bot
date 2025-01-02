@@ -7,7 +7,7 @@ Manages positions using EOA wallets, ensuring security and parameter randomizati
 
 ## Features
 
-- Delta-neutral trading strategy with support for ETH, BTC, and SOL pairs.  
+- Delta-neutral trading strategy with support for ETH, BTC pairs.  
 - Flexible configuration via `config.json` and `creds.txt`.  
 - Multi-level safety checks before opening positions.  
 - Automatic position closure in case of errors.  
